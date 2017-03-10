@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "用GitHub-Pages和jekyll搭建个人博客"
 categories: articles
 excerpt:
